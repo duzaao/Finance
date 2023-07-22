@@ -35,7 +35,7 @@ This repository contains a Python script that allows users to analyze and create
 - tkinter
 
 ## Installation
-1. Clone the repository:
+1. To install all libraries :
    ```bash
    chmod +x install_and_run.sh
 
