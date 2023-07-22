@@ -37,8 +37,8 @@ This repository contains a Python script that allows users to analyze and create
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/efficient-portfolio-analysis.git
-   cd efficient-portfolio-analysis
+   chmod +x install_and_run.sh
+
 
 
 ## Usage
@@ -97,4 +97,8 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to the [Alpha Vantage](https://www.alphavantage.co/) team for providing financial market data through their API.
 
 ## Contact
-For any inquiries or support, please email us at contact@example.com.
+
+For any inquiries or collaboration opportunities, you can reach me via:
+
+- LinkedIn: [linkedin.com/in/eduardofpacheco](https://www.linkedin.com/in/eduardofpacheco)
+- Email: [eduardofp@usp.br](mailto:eduardofp@usp.br)
