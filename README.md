@@ -89,7 +89,9 @@ Therefore, the Expected Returns chart is a useful tool to assist investors in th
 
 
 ### Covariance Matrix
-![Efficient Portfolio Analysis](photos/f4.png)
+<p align="center">
+  <img src="photos/f4.png" width="600">
+</p>
 
 The Covariance Matrix is an important tool in the analysis of investment portfolios. It represents the covariance relationships between the returns of different assets in the portfolio. In other words, the matrix shows how the returns of each asset move concerning the returns of other assets.
 
