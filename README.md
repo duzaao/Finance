@@ -64,6 +64,7 @@ This repository contains a Python script that allows users to analyze and create
 
 
 ### Price Series
+![Efficient Portfolio Analysis](photos/f2.png)
 The price series chart is a fundamental tool for analyzing financial assets such as stocks, bonds, and currencies. It represents the evolution of the closing prices of an asset over time. Each point on the chart represents the closing price of the asset on a specific day, and the line connecting these points shows the trend of price variation.
 
 By analyzing the price series chart, we can identify patterns, trends, and significant movements of the asset. For example, we can observe if the asset is in an uptrend (when prices are consistently rising) or a downtrend (when prices are consistently falling). Additionally, we can identify moments of volatility, i.e., periods when prices have sharp and unpredictable fluctuations.
@@ -74,6 +75,7 @@ In summary, the price series chart is a valuable tool for understanding the past
 
 
 ### Expected Returns
+![Efficient Portfolio Analysis](photos/f3.png)
 The Expected Returns chart shows the average estimated annual return for each asset selected in the portfolio. The expected return is calculated based on the historical price data of the assets and can help investors understand the growth potential of their investments.
 
 In the chart, each asset is represented by a vertical bar indicating the expected return as a percentage. The higher the bar, the greater the expected return for that asset. This allows investors to identify assets with higher potential returns and can assist them in making informed decisions about their investment allocation.
@@ -85,6 +87,7 @@ Therefore, the Expected Returns chart is a useful tool to assist investors in th
 
 
 ### Covariance Matrix
+![Efficient Portfolio Analysis](photos/f4.png)
 The Covariance Matrix is an important tool in the analysis of investment portfolios. It represents the covariance relationships between the returns of different assets in the portfolio. In other words, the matrix shows how the returns of each asset move concerning the returns of other assets.
 
 The significance of the Covariance Matrix lies in its ability to measure the degree of dependence or interdependence between assets. When assets have positive covariance, their returns tend to move in the same direction, indicating a higher correlation between them. On the other hand, when assets have negative covariance, their returns tend to move in opposite directions, indicating a lower correlation.
@@ -96,7 +99,8 @@ Additionally, the Covariance Matrix is used to calculate important measures in b
 In summary, the Covariance Matrix plays a fundamental role in constructing diversified and efficient portfolios, enabling investors to make more informed decisions to achieve their financial objectives.
 
 ### Price Forecast
-
+![Efficient Portfolio Analysis](photos/f5.png)
+![Efficient Portfolio Analysis](photos/f6.png)
 The Price Forecast is a powerful tool for investors and traders who want to project the future behavior of a financial asset, such as a stock or currency. This forecast is based on mathematical and statistical models that analyze the historical price patterns of the asset and seek to identify trends and future movements.
 
 The price forecast can provide valuable insights for investors, helping them make informed decisions about buying or selling assets, as well as the right timing to enter or exit a trade.
