@@ -64,7 +64,10 @@ This repository contains a Python script that allows users to analyze and create
 
 
 ### Price Series
-![Efficient Portfolio Analysis](photos/f2.png)
+<p align="center">
+  <img src="photos/f2.png" width="400">
+</p>
+
 
 The price series chart is a fundamental tool for analyzing financial assets such as stocks, bonds, and currencies. It represents the evolution of the closing prices of an asset over time. Each point on the chart represents the closing price of the asset on a specific day, and the line connecting these points shows the trend of price variation.
 
@@ -76,7 +79,10 @@ In summary, the price series chart is a valuable tool for understanding the past
 
 
 ### Expected Returns
-![Efficient Portfolio Analysis](photos/f3.png)
+<p align="center">
+  <img src="photos/f3.png" width="400">
+</p>
+
 
 The Expected Returns chart shows the average estimated annual return for each asset selected in the portfolio. The expected return is calculated based on the historical price data of the assets and can help investors understand the growth potential of their investments.
 
@@ -90,7 +96,7 @@ Therefore, the Expected Returns chart is a useful tool to assist investors in th
 
 ### Covariance Matrix
 <p align="center">
-  <img src="photos/f4.png" width="600">
+  <img src="photos/f4.png" width="400">
 </p>
 
 The Covariance Matrix is an important tool in the analysis of investment portfolios. It represents the covariance relationships between the returns of different assets in the portfolio. In other words, the matrix shows how the returns of each asset move concerning the returns of other assets.
@@ -112,28 +118,15 @@ The Price Forecast is a powerful tool for investors and traders who want to proj
 
 The price forecast can provide valuable insights for investors, helping them make informed decisions about buying or selling assets, as well as the right timing to enter or exit a trade.
 
-Below, we present a step-by-step guide to forming and analyzing price forecasts:
+To obtain price predictions for a financial asset using the Price Forecast tool, follow these steps:
 
-1. **Data Collection**: The first step is to obtain historical price data of the asset you want to forecast. This data can be obtained from sources like Yahoo Finance or financial data APIs.
+1 . **Choose the Asset**: Select the financial asset, such as a stock or currency, for which you want to make price predictions.
 
-2. **Data Analysis**: After data collection, it's time to analyze it to identify trends, seasonal patterns, and other relevant behaviors of the asset over time. This can be done through charts, statistical analysis, and other data analysis techniques.
+2 . **Set the Dates**: Specify the historical date range for which you want to collect price data. This data can be obtained from sources like Yahoo Finance or financial data APIs.
 
-3. **Model Selection**: There are various price forecasting models available, such as ARIMA model, exponential smoothing model, and the Prophet model, among others. The choice of model depends on the available data and specific characteristics of the asset in question.
+3 . **Generate Forecast**: Once you have the historical price data, the Price Forecast tool will automatically analyze the data, identify trends, and use mathematical and statistical models to generate future price predictions for the asset. The forecast will provide valuable insights to help you make informed decisions about buying or selling the asset, as well as the right timing to enter or exit a trade.
 
-4. **Model Training**: With the chosen model, it's necessary to train it using historical data. The goal is to adjust the model's parameters so that it can properly capture the patterns present in the data.
-
-5. **Future Forecast**: After training, the model is ready to make predictions for the future. Based on historical data and identified patterns, the model can generate a forecast of the asset's prices for the upcoming days, weeks, or months.
-
-6. **Evaluation and Adjustments**: It's important to evaluate the accuracy of the forecast by comparing it with observed actual prices. If the forecast is not aligned with actual prices, adjustments to the model or approach may be needed.
-
-7. **Decision Making**: With the price forecast in hand and an evaluation of its accuracy, investors can make informed decisions about their trades. This includes deciding when to buy or sell an asset, when to enter or exit a position, and how to manage investment risk.
-
-In summary, the Price Forecast is a valuable tool for investors looking to anticipate market movements and make strategic decisions in their investments.
-
-
-10. The GUI allows you to update the date range and selected tickers as needed and recalculate the efficient portfolio.
-
-11. Close the GUI window to exit the application.
+By following these steps, you can use the Price Forecast tool to project the future behavior of the chosen financial asset and make strategic decisions in your investments.
 
 ## Demo
 [![Portfolio Analysis Demo](https://example.com/path/to/demo.gif)](https://example.com/path/to/demo_video)
