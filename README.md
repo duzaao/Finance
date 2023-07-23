@@ -1,6 +1,6 @@
 # Efficient Portfolio Analysis Tool using Python and Tkinter GUI
 
-![Efficient Portfolio Analysis](https://example.com/path/to/image.png)
+![Efficient Portfolio Analysis](photos/foto1.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
