@@ -103,6 +103,8 @@ In summary, the Covariance Matrix plays a fundamental role in constructing diver
 
 ### Price Forecast
 | ![Efficient Portfolio Analysis](photos/f5.png) | ![Efficient Portfolio Analysis](photos/f6.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+
 
 The Price Forecast is a powerful tool for investors and traders who want to project the future behavior of a financial asset, such as a stock or currency. This forecast is based on mathematical and statistical models that analyze the historical price patterns of the asset and seek to identify trends and future movements.
 
